@@ -31,7 +31,7 @@ const ChatFeed = (props) => {
               marginLeft: isMyMessage ? "0px" : "68px",
             }}
           >
-            {message.text}
+            Hello this is Shruti
           </div>
         </div>
       );
